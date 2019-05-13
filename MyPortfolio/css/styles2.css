@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+.title{
+	font-size: 60px;
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+.quote{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 25px;
+}
+.navigation{
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #457EAF;
+	clear: right;
+}
+.navigation  {
+	list-style: none;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family: "Source Sans Pro";
+	font-weight: normal;
+	letter-spacing: 3px;
+	margin-left: auto;
+	text-align: center;
+	width: 100%;
+	transition: all 0.3s linear;
+	color:#000000
+}
+.navigation :hover {
+	color: #FFFFFF;
+}
+.container{
+	max-width: 2000px;
+	margin-top:35px;
+	overflow:auto
+}
+.gallery{
+	margin-left:140px;
+	float:left;
+	width:450px;
+	height: auto
+}
+.gallery2{
+	margin-left:100px;
+	float:left;
+	width:450px;
+	height: auto
+}
+.desc{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size:27px;
+	padding:5px;
+	text-align: center;
+}
